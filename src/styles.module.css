@@ -1,0 +1,13 @@
+.players {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 690px;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.playerFlexContainer {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}

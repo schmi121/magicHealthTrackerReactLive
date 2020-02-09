@@ -1,0 +1,13 @@
+.randomizerButtonsDiv {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+  }
+
+.randomizerButtonActual {
+  text-align: center;
+  width: 100px;
+  height: 60px;
+}

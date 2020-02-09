@@ -1,0 +1,14 @@
+.playerInputForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.playerInputDiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 5px;
+}

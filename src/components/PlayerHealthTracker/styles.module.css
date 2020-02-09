@@ -1,0 +1,49 @@
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
+.playerContainer {
+    display: flex;
+    width: 150px;
+    flex-direction: column;
+    border-style: solid;
+    border-width: medium;
+    align-items: center;
+    margin: 2rem;
+}
+
+.playerName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.playerHealthContainer {
+    display: flex;
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
+
+.healthButton { 
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-bottom: 5px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.playerHealthNumber {
+    display: flex;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
