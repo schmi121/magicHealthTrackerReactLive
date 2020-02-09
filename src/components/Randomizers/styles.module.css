@@ -11,3 +11,12 @@
   width: 100px;
   height: 60px;
 }
+
+@media screen and (max-width: 768px) {
+  .randomizerButtonActual {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 50%;
+  }
+}
